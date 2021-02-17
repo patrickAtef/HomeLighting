@@ -1,1 +1,1 @@
-php -S 192.168.1.105:8000
+php -S "replace with your local IP":8000
