@@ -14,8 +14,7 @@ class FRead():
                     c.coumu('0')
                 elif l == "of":
                     c.coumu('1')
-                t.sleep(5)
-
+                t.sleep(5)             #test git
 
 if __name__ == '__main__':
     y = FRead()
