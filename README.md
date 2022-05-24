@@ -13,4 +13,3 @@ Req:
 
 Version 0.1
 </br>@patrickAtef</br>
-open source licence can use in any project
